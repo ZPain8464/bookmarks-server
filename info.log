@@ -1,0 +1,20 @@
+{"message":"Bookmark with id ghfj not found.","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/","level":"error"}
+{"message":"Unauthorized request to path: /bookmarks/","level":"error"}
+{"message":"title is required","level":"error"}
+{"message":"title is required","level":"error"}
+{"message":"title is required","level":"error"}
+{"message":"title is required","level":"error"}
+{"message":"title is required","level":"error"}
+{"message":"title is required","level":"error"}
+{"message":"Invalid rating '6' supplied","level":"error"}
+{"message":"url is required","level":"error"}
+{"message":"desc is required","level":"error"}
+{"message":"Invalid rating '3' supplied","level":"error"}
+{"message":"Invalid rating '3' supplied","level":"error"}
+{"message":"Bookmark with id 24d8daa8-25b5-473c-9e26-aa6d3620adc2 created","level":"info"}
+{"message":"Bookmark with id 24d8daa8-25b5-473c-9e26-aa6d3620adc2 not found.","level":"error"}
+{"message":"Bookmark with id 80a0a63d-177f-4738-8580-aa6a4d256f63 created","level":"info"}
+{"message":"Bookmark with id 80a0a63d-177f-4738-8580-aa6a4d256f63 not found.","level":"error"}
+{"message":"Bookmark with id 8895114d-4d3f-49a8-b777-61392a235c2d created","level":"info"}
+{"message":"Bookmark with id 8895114d-4d3f-49a8-b777-61392a235c2d deleted.","level":"info"}
